@@ -1,4 +1,4 @@
-# 📊 SWOT Analysis for Mobile EDR  
+# 📊 SWOT Analysis
 
 ## ✅ Strengths  
 - 🚀 **Advanced Technology & Unique Features** → Cutting-edge threat detection and real-time response.  
