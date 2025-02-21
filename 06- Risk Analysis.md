@@ -1,4 +1,4 @@
-# ⚠️ Risk Analysis
+# ⚠️ Risk Analysis (External)
 
 ## 1️⃣ **Identified Risks**
 Understanding potential risks in **technology, market, finance, and operations** is essential for proactive mitigation.
@@ -36,11 +36,7 @@ Understanding potential risks in **technology, market, finance, and operations**
 |------|-----------|--------|-------------|
 | 🏗 **Supply Chain Disruptions** | Medium | High | Shortages in hardware or third-party dependencies |
 | 👥 **Talent Acquisition & Retention** | Medium | High | Difficulty in hiring skilled security professionals |
-| 🔄 **Scalability Issues** | Medium | High | Infrastructure limitations when expanding services |
 
----
-
-## 2️⃣ **Mitigation Strategies**
 
 
 
