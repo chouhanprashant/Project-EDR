@@ -50,7 +50,7 @@
 
 ---
 
-## 3️⃣ **Customer Retention & Engagement Strategies**
+## 3️⃣ **Engagement Strategies**
 - 🏆 **Loyalty Programs** – Discounts, referral incentives, membership perks  
 - 📢 **Personalized Marketing** – Email campaigns, behavior-based recommendations  
 - 📞 **Improved Customer Support** – 24/7 assistance, AI-driven chatbots, dedicated support teams  
