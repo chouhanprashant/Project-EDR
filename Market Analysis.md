@@ -78,11 +78,6 @@ Businesses and professionals need **reliable, simple, and cost-effective** mobil
 
 # 🏆 Competitive Landscape in Mobile EDR  
 
-## 📊 Market Overview  
-- **Market Size (2022):** $2.87 billion  
-- **Growth Rate:** 24.9% CAGR  
-- **Future:** Expected to grow significantly by 2030  
-
 ## 🔍 Key Competitors  
 
 ### 1️⃣ **Microsoft Corporation**  
