@@ -1,8 +1,5 @@
 # 📊 Customer Analysis
 
-## 1️⃣ **Customer Segmentation**
-Segmenting customers helps in creating **personalized marketing** and **sales strategies** to meet specific needs.
-
 ### 🎯 **Segmentation Criteria**
 1. 🏢 **Industry-Based Segmentation**  
    - **Technology & IT:** Cybersecurity firms, software companies, startups  
