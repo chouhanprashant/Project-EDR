@@ -14,8 +14,7 @@
    - 🏢 **Large Corporations (500+ employees)** – Focus on enterprise security, compliance, and global reach  
 
 3. 🌍 **Geographic Segmentation**  
-   - 🏙️ **Urban Customers** – Tech-savvy, prefer online interactions, competitive markets  
-   - 🏡 **Suburban & Rural Customers** – Prefer personal assistance, value affordability  
+   - 🏙️ **Urban Customers** – Tech-savvy, prefer online interactions, competitive markets    
    - 🌏 **International Markets** – Regional preferences, language, compliance requirements  
 
 ---
